@@ -1,0 +1,25 @@
+{
+  "name": "electron-start",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "main": "ts.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^1.7.9",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.51",
+    "@types/react": "^16.0.22",
+    "@types/react-dom": "^16.0.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
